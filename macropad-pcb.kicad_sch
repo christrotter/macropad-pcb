@@ -2118,7 +2118,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 30.48 142.24 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 39810252-558b-4ab3-b4e5-0d03c82ef0fd)
     (property "Reference" "J3" (at 31.115 137.16 0)
       (effects (font (size 1.27 1.27)))
@@ -2235,7 +2235,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 30.48 134.62 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a926fa7-0555-4654-bbf3-2620b01da09b)
     (property "Reference" "J2" (at 31.115 129.54 0)
       (effects (font (size 1.27 1.27)))
@@ -2285,7 +2285,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 240.03 50.8 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f4c2844-6fbc-45f3-bf33-e534ff379e39)
     (property "Reference" "H2" (at 242.57 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2309,7 +2309,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 57.15 128.27 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61ed5a46-6017-4513-9433-d29d0de14b44)
     (property "Reference" "J5" (at 57.785 123.19 0)
       (effects (font (size 1.27 1.27)))
@@ -2384,7 +2384,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 57.15 135.89 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 70aba2c4-0c6c-4296-98ea-790ba7d9bcbc)
     (property "Reference" "J6" (at 57.785 130.81 0)
       (effects (font (size 1.27 1.27)))
@@ -2459,7 +2459,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 57.15 151.13 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 73a1f6a9-3968-4180-801a-03c3745da32b)
     (property "Reference" "J8" (at 57.785 146.05 0)
       (effects (font (size 1.27 1.27)))
@@ -2526,7 +2526,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 240.03 45.72 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 766ba9d5-9d51-4b22-9584-3ea5ae522fdd)
     (property "Reference" "H1" (at 242.57 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2848,7 +2848,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 30.48 149.86 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a49c662a-1e6c-4cba-9d0f-0247c535b5bd)
     (property "Reference" "J4" (at 31.115 144.78 0)
       (effects (font (size 1.27 1.27)))
@@ -3140,7 +3140,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 57.15 143.51 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5f32fe7-c404-49db-ab53-2eecc1ffc24a)
     (property "Reference" "J7" (at 57.785 138.43 0)
       (effects (font (size 1.27 1.27)))
@@ -3449,7 +3449,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Socket") (at 30.48 127 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5aab357-b74c-4494-8463-3a46bad56185)
     (property "Reference" "J1" (at 31.115 121.92 0)
       (effects (font (size 1.27 1.27)))
